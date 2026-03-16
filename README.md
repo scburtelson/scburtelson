@@ -4,7 +4,7 @@
 </p>
 
 
-- 👋🏼 Hi! I'm Soren Burtelson @scburtelson. I'm an interdisciplinary doctoral researcher at DePaul University working on virtual reality (VR) systems for history pedagogy and immersive archival engagement. I grew up between Illinois and Saratoga, California. 
+- 👋🏼 Hi! I'm Soren Burtelson @scburtelson. I'm an interdisciplinary doctoral researcher at DePaul University working on virtuality systems, which includes Virtual Reality (VR) and Cinematic Reality (CR) for history pedagogy and immersive archival engagement. I grew up between Illinois and Saratoga, California. 
 - 🔭 My academic background is in computer engineering and history. My technical focus has been in systems security, computer vision, and networks. My research in history has focused on United States social and political history from 1960 to 1975. 
 - 🌱 As an interdisciplinary graduate researcher, I am leading a small team of undergraduate and graduate student researchers. My work is pioneering virtuality XR (VR, AR, etc.) and gaming for archival engagement and history pedagogy.
 - 🤔 As a graduate student in history, I taught HIST 1811 THE SIXTIES: HISTORY AND MEMORIES. This course traces the development of the 1960s and the first four years of the 1970s in United States politics and society. With a focus on civil rights, presidential politics, the Vietnam War, and a special focus on the Nixon Administration and Watergate, students in this course will learn about emerging themes of the period which culminate in the Watergate Scandal and the downfall of the Nixon Administration.
