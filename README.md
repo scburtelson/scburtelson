@@ -1,7 +1,6 @@
 <p align="center">
   <img src="ieee_soren_chair.JPG" alt="Soren Burtelson as the new IEEE Chair at the University of Minnesota">
   <br>
-  <em>Soren as new Chair of the UMN Branch of IEEE, 2023.</em>
 </p>
 
 **scburtelson/scburtelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
